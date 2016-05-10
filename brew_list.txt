@@ -1,0 +1,8 @@
+awscli
+bash-completion
+bash-git-prompt
+git
+node
+packer
+pkg-config
+wget
