@@ -6,3 +6,5 @@ node
 packer
 pkg-config
 wget
+python
+aws-shell
